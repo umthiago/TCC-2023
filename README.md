@@ -1,2 +1,2 @@
 # TCC-2023
-* Seja ben vindo ao meu TCC
+* Seja bem vindo ao meu TCC
